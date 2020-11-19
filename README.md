@@ -2,14 +2,9 @@
 
 Super simple python command line game for learning python.
 ## Dependencies
-`pip install termcolor`
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
-pip install foobar
+pip install termcolor
 ```
-
 ## Expected result
 
 ```js
